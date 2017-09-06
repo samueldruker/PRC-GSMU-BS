@@ -15,14 +15,14 @@ namespace PRC_GSMU_BS.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "User integration for GSMU and BookedScheduler for PRC.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Check the contact page.";
 
             return View();
         }
