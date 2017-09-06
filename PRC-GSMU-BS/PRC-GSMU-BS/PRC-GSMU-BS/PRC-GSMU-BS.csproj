@@ -160,6 +160,7 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <None Include="Properties\PublishProfiles\PRC-GSMU-BS - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\PRC-GSMU-BS20170818111128 - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
